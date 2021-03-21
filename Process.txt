@@ -1,0 +1,7 @@
+1. Build/Deploy Zora on Polygon testnet or local net
+2. Build a marketplace with the zora ZDK connecting to the new contracts and network
+3. Add other stuff...
+
+
+Build/Deploy Zora on Polygon testnet or local net
+- Connect to Mumbai Testnet (Metamask and what not)

@@ -1,0 +1,35 @@
+1. Implement Zora on Polygon
+2. Create my own marketplace with Zora on Polygon
+
+#  Add functionality to Polygon's NFT minter
+# Implement Circle 
+
+Mechanisms of distribution forces users and creators to give away their power.
+ERC-721 is the standard API for ownership of NFTs on Ethereum.
+
+No native monetization to ERC-721, by late 2020 the Zora team realized that the
+NFT market was fragmented into different platforms that Lock in creators/artists
+by forcing exclusivity, platform fees, or platform specific royalties, which made
+this platforms (Opensea, etc) predatory like other big tech platforms.
+
+Zora is a protocol that makes the ERC-721 richer, or an extension of ERC-721 if you will.
+Zora is not a marketplace or a platform.
+
+Zora.co
+
+Zora Market
+- Perpetual
+- Multi-Currency (Any ERC-20 token can be accepted as a bid)
+- Open (A creator is open to accepting any bid they decide)
+- Sell On Share (Royalties for a seller)
+- Creator Share (Royalties for the original creator)
+- Trustless (No Skethcy Admin stuff)
+- Decoupling of Content and Metadata
+- Updatable URIs
+- Hash Integrity
+- Meta Transactions (Gasless minting, transfers, market behavior)
+
+
+
+
+The Fat Protocol thesis (Joeman Agros?)
